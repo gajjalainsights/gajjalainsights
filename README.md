@@ -1,5 +1,5 @@
 <!-- https://www.youtube.com/watch?v=zgqfWLHNKLk -->
-<h1>Hi, I'm Prasanthi! <br/><a href="https://www.linkedin.com/in/prasanthi-gajjala-b8ab8b25a/">Analytical Professional</a> <!-- <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1> -->
+<h1>Hi, I'm Prasanthi! <br/><a href="https://www.linkedin.com/in/prasanthi-gajjala-b8ab8b25a/">Analytics Professional</a> <!-- <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1> -->
 
 
               
