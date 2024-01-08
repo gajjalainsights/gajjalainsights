@@ -4,6 +4,10 @@
 
               
 <h2>👨‍💻 Analytical Projects:</h2>
+- <b>Data Visualization</b>
+  - Tableau
+  - Power BI
+
 
 <!--
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
