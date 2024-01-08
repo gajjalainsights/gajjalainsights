@@ -5,6 +5,7 @@
               
 <h2>👨‍💻 Analytical Projects:</h2>
 
+<!--
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
@@ -20,8 +21,11 @@
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+-->
 
 <h2> 📄Certifications </h2>
+- <a href="https://achievement.cengage.com/561726c1-71a6-4e1c-b3aa-fd91c43751b4">Microsoft Excel Advanced by Cengage</a> <br/>
+- <a href="https://achievement.cengage.com/f8fe02c7-3200-4c63-9aab-76d15710ddc0">Microsoft Excel Intermediate by Cengage</a>
 
 
 <h2>📺 Popular YouTube Videos</h2>
@@ -29,22 +33,24 @@
 - [Medicare Part D Outliers](https://youtu.be/HwHeZYQX0Dw)
 - [Forecasting_Medicare Enrollments](https://youtu.be/LENcpQoZQRA)
 - [WDI- Economic Growth in Asia - Viz Project](https://youtu.be/3mcmXTgRXbE)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+
 
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
+
 [youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
 [linkedin]: https://linkedin.com/in/prasanthi-gajjala-b8ab8b25a/
 
 <!--
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[twitter]: https://twitter.com/joshmadakor
+[instagram]: https://www.instagram.com/joshmadakor/
+
+
 **gajjalainsights/gajjalainsights** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
