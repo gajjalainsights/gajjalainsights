@@ -15,7 +15,12 @@
   - UnSupervised Learning <br/>
     - PCA <br/>
     - K Means Clustering <br/>
-  
+
+- <b>ETL</b><br/>
+  - Data Cleaning <br/>
+  - Data Wrangling/ Manipulation <br/>
+  - Data Analysis <br/>
+      
 - <b>Data Visualization</b><br/>
   - Tableau <br/>
   - Power BI <br/>
