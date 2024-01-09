@@ -28,7 +28,7 @@
   - [Histogram](https://github.com/gajjalainsights/Histogram.git) <br/>
   - [Bar Graph](https://github.com/gajjalainsights/Bar_Graph.git) <br/>
   - [HeatMap](https://github.com/gajjalainsights/HeatMap.git) <br/>
-  - KDE Plot
+  - [KDE Plot](https://github.com/gajjalainsights/KDE_Plot.git) <br/>
 
 
 <!--
