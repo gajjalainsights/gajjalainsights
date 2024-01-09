@@ -24,9 +24,9 @@
 - <b>Data Visualization</b><br/>
   - Tableau <br/>
   - Power BI <br/>
-  - Scatter Plot <br/>
-  - Histogram <br/>
-  - Bar Graph <br/>
+  - [Scatter Plot](https://github.com/gajjalainsights/Scatter-Plot.git) <br/>
+  - [Histogram](https://github.com/gajjalainsights/Histogram.git) <br/>
+  - [Bar Graph](https://github.com/gajjalainsights/Bar_Graph.git) <br/>
   - [HeatMap](https://github.com/gajjalainsights/HeatMap.git) <br/>
   - KDE Plot
 
