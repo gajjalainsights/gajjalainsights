@@ -22,7 +22,7 @@
   - Scatter Plot <br/>
   - Histogram <br/>
   - Bar Graph <br/>
-  - HeatMap <br/>
+  - [HeatMap](https://i.postimg.cc/4yjCsm12/image.png) <br/>
   - KDE Plot
 
 
