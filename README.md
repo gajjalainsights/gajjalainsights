@@ -4,9 +4,26 @@
 
               
 <h2>👨‍💻 Analytical Projects:</h2>
-- <b>Data Visualization</b>
-  - Tableau
-  - Power BI
+
+  
+- <b>Machine Learning</b><br/>
+  - Supervised Learning
+    - Linear regression <br/>
+    - Logistic Regression <br/>
+    - Random Forest <br/>
+    - XG Boost <br/>
+  - UnSupervised Learning <br/>
+    - PCA <br/>
+    - K Means Clustering <br/>
+  
+- <b>Data Visualization</b><br/>
+  - Tableau <br/>
+  - Power BI <br/>
+  - Scatter Plot <br/>
+  - Histogram <br/>
+  - Bar Graph <br/>
+  - HeatMap <br/>
+  - KDE Plot
 
 
 <!--
