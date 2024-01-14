@@ -5,7 +5,7 @@
 <h2>👨‍💻 Analytical Projects:</h2>
 
 - <b>[Data Catalog](https://github.com/gajjalainsights/DataCatalog.git)</b><br/>
-- <b>Data Lineage</b><br/>
+- <b>[Data Lineage](https://github.com/gajjalainsights/DataLineage.git)</b><br/>
   
 - <b>ETL</b><br/>
   - Data Cleaning <br/>
