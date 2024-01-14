@@ -2,11 +2,15 @@
 <h1>Hi, I'm Prasanthi! <br/><a href="https://www.linkedin.com/in/prasanthi-gajjala-b8ab8b25a/">Analytics Professional</a> <!-- <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1> -->
 
 
-<h2>👨‍💻 Analytical Projects:</h2>
+<h2>📄 Documentation:</h2>
 
+- <b>[Data Wareouses VS Data Lakes](https://github.com/gajjalainsights/DatawarehouseVSDataLakes.git)</b><br/>
 - <b>[Data Catalog](https://github.com/gajjalainsights/DataCatalog.git)</b><br/>
 - <b>[Data Lineage](https://github.com/gajjalainsights/DataLineage.git)</b><br/>
-  
+
+
+<h2>👨‍💻 Analytical Projects:</h2>
+
 - <b>ETL</b><br/>
   - Data Cleaning <br/>
   - Data Wrangling/ Manipulation <br/>
