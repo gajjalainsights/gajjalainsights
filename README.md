@@ -4,7 +4,7 @@
 
 <h2>👨‍💻 Analytical Projects:</h2>
 
-- <b>DataFlow</b><br/>
+- <b>[DataFlow VS Datapipeline VS Data Lineage]()</b><br/>
   - ETL - Extract Transform Load <br/>
   - ELT - Extract Load Transform <br/>
   - Data Cleaning <br/>
@@ -65,8 +65,8 @@
 <h2>📄 Documentation:</h2>
 
 - <b>[Data Warehouses VS Data Lakes](https://github.com/gajjalainsights/DatawarehouseVSDataLakes.git)</b><br/>
-- <b>[Data Catalog](https://github.com/gajjalainsights/DataCatalog.git)</b><br/>
-- <b>[Data Lineage](https://github.com/gajjalainsights/DataLineage.git)</b><br/>
+- <b>[Data Management Systems](https://github.com/gajjalainsights/DataCatalog.git)</b><br/>
+
 
 
 <h2> 🤳 Connect with me:</h2>
