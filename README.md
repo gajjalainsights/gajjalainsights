@@ -4,7 +4,9 @@
 
 <h2>👨‍💻 Analytical Projects:</h2>
 
-- <b>ETL</b><br/>
+- <b>DataFlow</b><br/>
+  - ETL - Extract Transform Load <br/>
+  - ELT - Extract Load Transform <br/>
   - Data Cleaning <br/>
   - Data Wrangling/ Manipulation <br/>
   - Data Analysis <br/>
