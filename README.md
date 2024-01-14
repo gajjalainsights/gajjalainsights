@@ -16,7 +16,7 @@
 
 <h2>👨‍💻 Analytical Projects:</h2>
     
-<b>- Data Visualization</b><br/>
+- <b> Data Visualization</b><br/>
   - [Tableau](https://public.tableau.com/app/profile/prasanthi.gajjala/vizzes)<br/>
   - Power BI <br/>
   - [Scatter Plot](https://github.com/gajjalainsights/Scatter-Plot.git) <br/>
