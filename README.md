@@ -4,7 +4,7 @@
 
 <h2>📄 Documentation:</h2>
 
-- <b>[Data Wareouses VS Data Lakes](https://github.com/gajjalainsights/DatawarehouseVSDataLakes.git)</b><br/>
+- <b>[Data Warehouses VS Data Lakes](https://github.com/gajjalainsights/DatawarehouseVSDataLakes.git)</b><br/>
 - <b>[Data Catalog](https://github.com/gajjalainsights/DataCatalog.git)</b><br/>
 - <b>[Data Lineage](https://github.com/gajjalainsights/DataLineage.git)</b><br/>
 
