@@ -2,8 +2,15 @@
 <h1>Hi, I'm Prasanthi! <br/><a href="https://www.linkedin.com/in/prasanthi-gajjala-b8ab8b25a/">Analytics Professional</a> <!-- <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1> -->
 
 
-              
 <h2>👨‍💻 Analytical Projects:</h2>
+
+- <b>Data Catalog</b><br/>
+- <b>Data Lineage</b><br/>
+  
+- <b>ETL</b><br/>
+  - Data Cleaning <br/>
+  - Data Wrangling/ Manipulation <br/>
+  - Data Analysis <br/>
 
   
 - <b>Machine Learning</b><br/>
@@ -16,11 +23,7 @@
     - PCA <br/>
     - K Means Clustering <br/>
 
-- <b>ETL</b><br/>
-  - Data Cleaning <br/>
-  - Data Wrangling/ Manipulation <br/>
-  - Data Analysis <br/>
-      
+    
 - <b>Data Visualization</b><br/>
   - Tableau <br/>
   - Power BI <br/>
