@@ -6,7 +6,7 @@
 <h2>👨‍💻 Machine Learning Projects:</h2>
 
   - <b> Supervised Learning </b> <br/>
-    - Linear regression <br/>
+    - Multiple regression <br/>
     - Logistic Regression <br/>
     - Random Forest <br/>
     - XG Boost <br/>
