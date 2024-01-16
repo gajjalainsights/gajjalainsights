@@ -39,7 +39,7 @@
 - [Forecasting_Medicare Enrollments](https://youtu.be/LENcpQoZQRA)
 - [WDI- Economic Growth in Asia - Viz Project](https://youtu.be/3mcmXTgRXbE)
 
-<h2>📄 Data Analyst Flow Documentation:</h2>
+<h2>📄 Data Flow Documentation:</h2>
 
 - <b>Data Pipeline</b><br/>
   - [Data Sources](https://github.com/gajjalainsights/DatawarehouseVSDataLakes.git)<br/>
