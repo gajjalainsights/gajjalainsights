@@ -24,6 +24,7 @@
   - [Bar Graph](https://github.com/gajjalainsights/Bar_Graph.git) <br/>
   - [HeatMap](https://github.com/gajjalainsights/HeatMap.git) <br/>
   - [KDE Plot](https://github.com/gajjalainsights/KDE_Plot.git) <br/>
+  - [QQ Plot](https://github.com/gajjalainsights/QQ_Plot.git) <br/>
 
 
 
